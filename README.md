@@ -1,65 +1,83 @@
-# Hi, I'm Sai Nandu Posina
+<h1 align="center">Hi, I'm Sai Nandu Posina 👋</h1>
 
-Software Engineer focused on **Full-Stack Development**, **AI/ML**, and **Cloud-based applications**.  
-Currently pursuing a Master's in Software Engineering at **Blekinge Institute of Technology, Sweden**.
+<p align="center">
+  <b>Software Engineer • Full-Stack Developer • AI/ML • Cloud</b><br>
+  Master's in Software Engineering @ Blekinge Institute of Technology, Sweden
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sainanduposina">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Nandu%20Posina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nanduposina">
+    <img src="https://img.shields.io/badge/GitHub-Nanduposina-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:nanduposina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 
 ## About Me
 
-- MSc in Software Engineering at Blekinge Institute of Technology
-- Bachelor's in Computer Science through an international collaboration between **BTH, Sweden** and **JNTUK, India**
-- Interested in building scalable software, AI-powered applications, backend services, and developer-friendly products
-- Looking for opportunities in **Software Engineering**, **Full-Stack Development**, **AI/ML Engineering**, and **Cloud Development**
+- Master's student in **Software Engineering** at **Blekinge Institute of Technology, Sweden**
+- Background in **Computer Science** through an international academic path across **India and Sweden**
+- Interested in **full-stack development**, **AI/ML applications**, **backend systems**, and **cloud-based solutions**
+- Looking for opportunities in **Software Engineering**, **Full-Stack Development**, **AI/ML**, and **Cloud Engineering**
+
+---
 
 ## Tech Stack
 
-**Languages**  
-Python, JavaScript, TypeScript, Java, C, C++, SQL
+### Languages
+`Python` `JavaScript` `TypeScript` `Java` `C` `C++` `SQL`
 
-**Frontend**  
-React.js, HTML, CSS, TailwindCSS, Material UI
+### Frontend
+`React.js` `HTML` `CSS` `TailwindCSS` `Material UI`
 
-**Backend**  
-Node.js, Express.js, REST APIs, JWT Authentication, Socket.IO
+### Backend
+`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Socket.IO`
 
-**AI / ML**  
-Machine Learning, Deep Learning, NLP, LSTM, GRU, BERT, Scikit-learn, LightGBM, CatBoost, Generative AI
+### AI / ML
+`Machine Learning` `Deep Learning` `NLP` `LSTM` `GRU` `BERT` `Scikit-learn` `LightGBM` `CatBoost` `Generative AI`
 
-**Cloud / DevOps**  
-AWS, Docker, Supabase, Firebase, Git, GitHub, CI/CD
+### Cloud / DevOps
+`AWS` `Docker` `Firebase` `Supabase` `Git` `GitHub` `CI/CD`
 
-**Databases**  
-MySQL, SQLite, Firebase, Supabase
+### Databases
+`MySQL` `SQLite` `Firebase` `Supabase`
 
-## Featured Projects
+---
 
-### ScandiCart — Full-Stack E-Commerce Platform
-Modern e-commerce platform built with React, TypeScript, Node.js, and Express.js.  
-Focus areas: authentication, REST APIs, cloud sync, responsive UI, and clean engineering practices.
+## What I Build
 
-### SkillSwap — Peer-to-Peer Learning Network
-Full-stack platform for skill exchange with real-time chat, authentication, and a structured backend.  
-Focus areas: Node.js, React, SQLite, Socket.IO, REST APIs, and secure web development.
+- Full-stack web applications
+- AI-powered tools and practical ML projects
+- Cloud-connected systems and backend services
+- Software engineering projects focused on scalability and maintainability
 
-### AI Learning Path Assistant
-AI-powered application that creates personalized learning roadmaps based on goals and skill level.  
-Built with Streamlit, Python, Gemini AI, YouTube Data API, and workflow automation tools.
+---
 
-### Fake News Detection using LSTM, GRU, and BERT
-Bachelor’s thesis project comparing deep learning and transformer-based NLP models for fake news classification.
+## Highlighted Work
+
+A few types of projects you’ll find on my GitHub:
+
+- **Full-Stack Applications** — modern web apps with frontend, backend, authentication, and database integration
+- **AI / ML Projects** — practical projects using machine learning, NLP, and generative AI workflows
+- **Cloud & Backend Projects** — services and applications connected to cloud tools and APIs
+- **Engineering Practice** — projects focused on clean code, structured development, and problem solving
+
+---
 
 ## Current Focus
 
-- Building production-style full-stack applications
-- Improving backend design and cloud development skills
-- Exploring LLM-based applications and AI-assisted software engineering
-- Writing cleaner, more maintainable, and scalable code
+- Building stronger production-style projects
+- Improving backend, cloud, and AI engineering skills
+- Writing cleaner, more maintainable code
+- Publishing better-documented repositories
 
-## GitHub Goals
-
-- Publish cleaner and better-documented repositories
-- Add strong README files, setup instructions, and demos
-- Share projects that reflect real software engineering skills
-- Contribute more consistently to practical and collaborative development work
+---
 
 ## Connect With Me
 
@@ -68,4 +86,7 @@ Bachelor’s thesis project comparing deep learning and transformer-based NLP mo
 - Email: [nanduposina@gmail.com](mailto:nanduposina@gmail.com)
 
 ---
-Thanks for visiting my profile.
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
